@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iskandaralimov1234-ai.github.io/ertak-books-site/sitemap.xml
